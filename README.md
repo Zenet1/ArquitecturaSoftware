@@ -1,7 +1,7 @@
 # ArquitecturaSoftware
 Repositorio creado con el propósito de alojar el proyecto relacionado con la asignatura "Arquitectura de Software"
 
-# Integrantes
+## Integrantes
 -Carlos Adrián Kuk Baeza
 <img src="https://github.com/Zenet1/ArquitecturaSoftware/blob/main/fotos/carlos_adrian_kuk.jpeg" width="300">
 
