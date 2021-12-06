@@ -5,10 +5,6 @@ Repositorio creado con el propósito de alojar el proyecto relacionado con la as
 <p>
   <ul>
     <li>
-      <h3>Carlos Adrián Kuk Baeza</h3>
-      <img src="https://github.com/Zenet1/ArquitecturaSoftware/blob/main/fotos/carlos_adrian_kuk.jpeg" width="300" alt="carlos_adrian_kuk">
-    </li>
-    <li>
       <h3>David Abraham Paredes Coob</h3>
       <img src="https://github.com/Zenet1/ArquitecturaSoftware/blob/main/fotos/david_abraham_paredes.jpeg" width="300" alt="david_abraham_paredes">
     </li>
